@@ -1,0 +1,15 @@
+#foot{
+    background-color: rgb(75, 73, 73);
+    color: rgb(224, 214, 214);
+    text-decoration: solid;
+    
+
+}
+.btn{
+    color: rgb(250, 246, 246);
+    background-color: rgb(112, 108, 108);
+    padding: 5px;
+    margin: 10px;
+    text-align: center;
+
+}
